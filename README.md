@@ -1,4 +1,4 @@
-ExData_Plotting1
+# PLOTTING ASSIGNMENT
 ================
 ## Introduction
 
